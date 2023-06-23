@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuwan597&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwan597" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuwan597" alt="bhuwan597" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bhuvi_bhuwan7" target="blank"><img src="https://img.shields.io/twitter/follow/bhuvi_bhuwan7?logo=twitter&style=for-the-badge" alt="bhuvi_bhuwan7" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning with Python.**
@@ -33,5 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuwan597&show_icons=true&locale=en&layout=compact" alt="bhuwan597" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuwan597&show_icons=true&locale=en" alt="bhuwan597" /></p>
-
+</br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuwan597&" alt="bhuwan597" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuwan597" alt="bhuwan597" /></a> </p>
+
