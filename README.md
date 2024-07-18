@@ -2,7 +2,7 @@
 ➡ Full stack web developer.<br>➡ Currently working on NextJs and NestJs.<br>➡ Pursuing Bachelor's In Electronics and Communication Engineering.<br>➡ From Pokhara, Nepal.
 
 ## 🔗 Portfolio Website:
-[![Bhuwan Acharya Upadhyaya](https://bhuwanacharyaupadhyaya.com.np)]
+[Bhuwan Acharya Upadhyaya](https://bhuwanacharyaupadhyaya.com.np)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhuwanacharya.998) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhuvi_bhuwan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuwan597) 
